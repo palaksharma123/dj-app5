@@ -1,0 +1,29 @@
+#song
+{
+    font-size: 23px;
+    margin: 15px;
+    background-color: lightcoral;
+}
+
+body
+{
+  background-size: cover;	
+}
+
+.heading
+{
+  font-size: 25px;
+  width: 100%;
+}
+
+.note
+{
+  font-size: 17px;
+}
+
+    canvas 
+  {
+    border:5px solid lightskyblue;
+    border-radius:20px;
+    box-shadow: 5px 5px 18px mediumspringgreen;
+  }
